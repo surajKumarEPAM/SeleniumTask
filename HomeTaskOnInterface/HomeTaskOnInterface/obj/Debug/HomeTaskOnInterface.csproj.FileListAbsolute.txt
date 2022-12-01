@@ -1,0 +1,8 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\HomeTaskOnInterface\HomeTaskOnInterface\bin\Debug\HomeTaskOnInterface.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\HomeTaskOnInterface\HomeTaskOnInterface\bin\Debug\HomeTaskOnInterface.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\HomeTaskOnInterface\HomeTaskOnInterface\bin\Debug\HomeTaskOnInterface.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\HomeTaskOnInterface\HomeTaskOnInterface\obj\Debug\HomeTaskOnInterface.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\HomeTaskOnInterface\HomeTaskOnInterface\obj\Debug\HomeTaskOnInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\HomeTaskOnInterface\HomeTaskOnInterface\obj\Debug\HomeTaskOnInterface.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\HomeTaskOnInterface\HomeTaskOnInterface\obj\Debug\HomeTaskOnInterface.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\HomeTaskOnInterface\HomeTaskOnInterface\obj\Debug\HomeTaskOnInterface.pdb

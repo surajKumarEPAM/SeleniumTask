@@ -1,0 +1,14 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\bin\Debug\TaskTwo.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\bin\Debug\TaskTwo.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\bin\Debug\TaskTwo.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\bin\Debug\WebDriver.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\bin\Debug\WebDriver.Support.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\obj\Debug\TaskTwo.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\obj\Debug\TaskTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\obj\Debug\TaskTwo.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\obj\Debug\TaskTwo.csproj.CopyComplete
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\obj\Debug\TaskTwo.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskTwo\TaskTwo\obj\Debug\TaskTwo.pdb

@@ -1,0 +1,14 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\bin\Debug\DriverOOP.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\bin\Debug\DriverOOP.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\bin\Debug\DriverOOP.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\bin\Debug\WebDriver.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\bin\Debug\WebDriver.Support.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\obj\Debug\DriverOOP.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\obj\Debug\DriverOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\obj\Debug\DriverOOP.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\obj\Debug\DriverOOP.csproj.CopyComplete
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\obj\Debug\DriverOOP.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\DriverOOP\DriverOOP\obj\Debug\DriverOOP.pdb

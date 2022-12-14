@@ -1,0 +1,8 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\FileHandline\bin\Debug\FileHandline.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\FileHandline\bin\Debug\FileHandline.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\FileHandline\bin\Debug\FileHandline.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\FileHandline\obj\Debug\FileHandline.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\FileHandline\obj\Debug\FileHandline.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\FileHandline\obj\Debug\FileHandline.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\FileHandline\obj\Debug\FileHandline.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\FileHandline\obj\Debug\FileHandline.pdb

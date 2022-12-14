@@ -1,0 +1,8 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingStatic\PracticingStatic\obj\Debug\PracticingStatic.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingStatic\PracticingStatic\obj\Debug\PracticingStatic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingStatic\PracticingStatic\obj\Debug\PracticingStatic.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingStatic\PracticingStatic\bin\Debug\PracticingStatic.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingStatic\PracticingStatic\bin\Debug\PracticingStatic.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingStatic\PracticingStatic\bin\Debug\PracticingStatic.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingStatic\PracticingStatic\obj\Debug\PracticingStatic.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingStatic\PracticingStatic\obj\Debug\PracticingStatic.pdb

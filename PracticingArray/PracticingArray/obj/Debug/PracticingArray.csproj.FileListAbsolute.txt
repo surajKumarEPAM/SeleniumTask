@@ -1,0 +1,8 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingArray\PracticingArray\bin\Debug\PracticingArray.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingArray\PracticingArray\bin\Debug\PracticingArray.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingArray\PracticingArray\bin\Debug\PracticingArray.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingArray\PracticingArray\obj\Debug\PracticingArray.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingArray\PracticingArray\obj\Debug\PracticingArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingArray\PracticingArray\obj\Debug\PracticingArray.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingArray\PracticingArray\obj\Debug\PracticingArray.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\PracticingArray\PracticingArray\obj\Debug\PracticingArray.pdb

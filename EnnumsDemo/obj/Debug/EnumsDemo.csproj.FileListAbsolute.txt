@@ -1,0 +1,8 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnnumsDemo\bin\Debug\EnnumsDemo.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnnumsDemo\bin\Debug\EnnumsDemo.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnnumsDemo\bin\Debug\EnnumsDemo.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnnumsDemo\obj\Debug\EnumsDemo.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnnumsDemo\obj\Debug\EnumsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnnumsDemo\obj\Debug\EnumsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnnumsDemo\obj\Debug\EnnumsDemo.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnnumsDemo\obj\Debug\EnnumsDemo.pdb

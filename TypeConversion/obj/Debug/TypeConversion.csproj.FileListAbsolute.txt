@@ -1,0 +1,8 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TypeConversion\obj\Debug\TypeConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TypeConversion\obj\Debug\TypeConversion.pdb

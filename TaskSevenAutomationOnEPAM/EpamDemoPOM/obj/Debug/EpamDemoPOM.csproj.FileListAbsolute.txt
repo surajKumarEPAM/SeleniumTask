@@ -1,0 +1,12 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\bin\Debug\EpamDemoPOM.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\bin\Debug\EpamDemoPOM.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\bin\Debug\WebDriver.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\bin\Debug\WebDriver.Support.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\obj\Debug\EpamDemoPOM.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\obj\Debug\EpamDemoPOM.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\obj\Debug\EpamDemoPOM.csproj.CopyComplete
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\obj\Debug\EpamDemoPOM.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\EpamDemoPOM\obj\Debug\EpamDemoPOM.pdb

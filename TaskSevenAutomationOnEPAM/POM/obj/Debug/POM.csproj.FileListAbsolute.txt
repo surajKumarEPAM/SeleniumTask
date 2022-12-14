@@ -1,0 +1,6 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\POM\bin\Debug\POM.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\POM\bin\Debug\POM.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\POM\obj\Debug\POM.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\POM\obj\Debug\POM.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\POM\obj\Debug\POM.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\TaskSevenAutomationOnEPAM\POM\obj\Debug\POM.pdb

@@ -1,0 +1,8 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnumrationPratice\bin\Debug\EnumrationPratice.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnumrationPratice\bin\Debug\EnumrationPratice.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnumrationPratice\bin\Debug\EnumrationPratice.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnumrationPratice\obj\Debug\EnumrationPratice.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnumrationPratice\obj\Debug\EnumrationPratice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnumrationPratice\obj\Debug\EnumrationPratice.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnumrationPratice\obj\Debug\EnumrationPratice.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\EnumrationPratice\obj\Debug\EnumrationPratice.pdb

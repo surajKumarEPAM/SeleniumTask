@@ -1,0 +1,8 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\ExceptionHandlingPractice\ExceptionHandlingPractice\bin\Debug\ExceptionHandlingPractice.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\ExceptionHandlingPractice\ExceptionHandlingPractice\bin\Debug\ExceptionHandlingPractice.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\ExceptionHandlingPractice\ExceptionHandlingPractice\bin\Debug\ExceptionHandlingPractice.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\ExceptionHandlingPractice.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\ExceptionHandlingPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\ExceptionHandlingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\ExceptionHandlingPractice.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\ExceptionHandlingPractice\ExceptionHandlingPractice\obj\Debug\ExceptionHandlingPractice.pdb

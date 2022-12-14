@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UiFrameWork\\UiTestProject\\UiTestProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UiFrameWork\\UILibraryProject\\UILibraryProject.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UiFrameWork\\UILibraryProject\\UILibraryProject.csproj",
+        "projectName": "UILibraryProject",
+        "projectPath": "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UiFrameWork\\UILibraryProject\\UILibraryProject.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UiFrameWork\\UiTestProject\\UiTestProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UiFrameWork\\UiTestProject\\UiTestProject.csproj",
+        "projectName": "UiTestProject",
+        "projectPath": "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UiFrameWork\\UiTestProject\\UiTestProject.csproj",
+        "packagesPath": "C:\\Users\\Suraj_Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UIFramework\\UiTestProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Suraj_Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UiFrameWork\\UILibraryProject\\UILibraryProject.csproj": {
+                "projectPath": "C:\\Users\\Suraj_Kumar\\MyProjects\\DotNet\\UiFrameWork\\UILibraryProject\\UILibraryProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

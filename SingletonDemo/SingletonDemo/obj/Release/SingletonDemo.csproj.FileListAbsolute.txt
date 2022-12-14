@@ -1,0 +1,8 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SingletonDemo\SingletonDemo\bin\Release\SingletonDemo.exe.config
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SingletonDemo\SingletonDemo\bin\Release\SingletonDemo.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SingletonDemo\SingletonDemo\bin\Release\SingletonDemo.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SingletonDemo\SingletonDemo\obj\Release\SingletonDemo.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SingletonDemo\SingletonDemo\obj\Release\SingletonDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SingletonDemo\SingletonDemo\obj\Release\SingletonDemo.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SingletonDemo\SingletonDemo\obj\Release\SingletonDemo.exe
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SingletonDemo\SingletonDemo\obj\Release\SingletonDemo.pdb

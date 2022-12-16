@@ -1,0 +1,12 @@
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\bin\Debug\net6.0\UIFramework.deps.json
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\bin\Debug\net6.0\UIFramework.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\bin\Debug\net6.0\UIFramework.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\obj\Debug\net6.0\UIFramework.csproj.AssemblyReference.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\obj\Debug\net6.0\UIFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\obj\Debug\net6.0\UIFramework.AssemblyInfoInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\obj\Debug\net6.0\UIFramework.AssemblyInfo.cs
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\obj\Debug\net6.0\UIFramework.csproj.CoreCompileInputs.cache
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\obj\Debug\net6.0\UIFramework.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\obj\Debug\net6.0\refint\UIFramework.dll
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\obj\Debug\net6.0\UIFramework.pdb
+C:\Users\Suraj_Kumar\MyProjects\DotNet\SaucedemoFramework\UIFramework\obj\Debug\net6.0\ref\UIFramework.dll

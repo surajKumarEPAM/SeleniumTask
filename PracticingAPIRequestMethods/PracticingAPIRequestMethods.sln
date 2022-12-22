@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticingAPIRequestMethods", "PracticingAPIRequestMethods\PracticingAPIRequestMethods.csproj", "{1241F0F3-DCB9-4A1B-8723-E9AE024608A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1241F0F3-DCB9-4A1B-8723-E9AE024608A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1241F0F3-DCB9-4A1B-8723-E9AE024608A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1241F0F3-DCB9-4A1B-8723-E9AE024608A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1241F0F3-DCB9-4A1B-8723-E9AE024608A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE83AC1-6700-4013-85D0-124CA2686B86}
+	EndGlobalSection
+EndGlobal
